@@ -23,7 +23,7 @@
 		resume();
 	}
 
-	function resume() {
+	export function resume() {
 		playing = true;
 		countDown();
 
@@ -76,8 +76,6 @@
 		// onMount
 		loop();
 	}
-
-	onMount(countDown);
 </script>
 
 <div class="game" style="--size: {size}">

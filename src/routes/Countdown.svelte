@@ -38,7 +38,6 @@
 		left: 0;
 		top: 0;
 	}
-
 	.countdown {
 		display: flex;
 		align-items: center;
