@@ -49,6 +49,7 @@
 		"svelte"
 	],
 	"dependencies": {
-		"@fontsource/grandstander": "^5.2.5"
+		"@fontsource/grandstander": "^5.2.5",
+		"@neoconfetti/svelte": "^2.2.2"
 	}
 }
