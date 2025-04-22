@@ -8,8 +8,8 @@
 	.modal-background {
 		position: fixed;
 		width: 100%;
-		/* top: 0;
-		left: 0; */
+		top: 0;
+		left: 0;
 		height: 100%;
 		backdrop-filter: blur(10px);
 		display: grid;

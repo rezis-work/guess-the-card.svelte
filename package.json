@@ -47,5 +47,8 @@
 	},
 	"keywords": [
 		"svelte"
-	]
+	],
+	"dependencies": {
+		"@fontsource/grandstander": "^5.2.5"
+	}
 }
